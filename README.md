@@ -4,7 +4,7 @@ Sistema de gerenciamento de biblioteca escolar/acadêmica.
 
 ## Status do projeto
 
-🚧 **Em desenvolvimento**
+**Em desenvolvimento**
 
 ## Tecnologias
 
